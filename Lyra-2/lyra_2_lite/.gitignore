@@ -1,0 +1,17 @@
+# Posterize pipeline datasets + checkpoints (re-downloadable / re-trainable;
+# not source code).
+posterize/data/
+posterize/ckpts/
+posterize/_smoke/
+
+# Python build artefacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
